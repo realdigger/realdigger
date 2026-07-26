@@ -2,10 +2,9 @@
 
 # `realdigger`
 
-### Open Source · Home Automation · Mobile Apps · Local-first Tools
+### Open Source · Home Automation · Mobile Apps · Forum Development
 
-[![GitHub](https://img.shields.io/badge/GitHub-realdigger-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/realdigger)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-21262D?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/realdigger)
+[GitHub](https://github.com/realdigger) · [MySMF](https://mysmf.net)
 
 </div>
 
@@ -15,8 +14,9 @@
 
 I build practical tools around **automation, local control and open source**.
 
-I also have extensive experience with **PHP** and the **Simple Machines Forum (SMF)** ecosystem,
-including developing numerous custom modifications and extending forum functionality.
+I also have extensive experience with **PHP** and the **Simple Machines Forum (SMF)**
+ecosystem, including developing numerous custom modifications and extending forum
+functionality.
 
 Current projects focus on the **BEAMS aquarium lighting ecosystem**:
 a Home Assistant integration and a Flutter Android app for direct local control.
@@ -27,28 +27,30 @@ a Home Assistant integration and a Flutter Android app for direct local control.
 
 ## Tech
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,flutter,dart,android,linux,docker,git,github,vscode&theme=dark" alt="Tech stack" />
-</p>
+`PHP` `Python` `Flutter` `Dart` `Android` `Linux` `Docker` `Git` `GitHub`
+
+`SMF` `MySQL` `HTML` `CSS` `JavaScript` `Home Assistant` `HACS`
 
 ### Forum Development
 
-**Simple Machines Forum (SMF)** — extensive experience developing custom modifications,
-extending forum functionality and adapting the engine for real-world use cases.
+**Simple Machines Forum (SMF)** — extensive experience developing custom
+modifications, extending forum functionality and adapting the engine for real-world
+use cases.
 
-`SMF` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+Some SMF work:
+
+- [SMF Mods Russian Localization](https://github.com/realdigger/SMF-Mods-Russian-Localization)
+- [SMF SAVE Fix](https://github.com/realdigger/SMF-SAVE-Fix)
+- [SMF Allowed Email Domains](https://github.com/realdigger/SMF-Allowed-Email-Domains)
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ### BEAMS Light for Home Assistant
 
-Unofficial **Home Assistant custom integration** for local control and monitoring of **BEAMS reef aquarium lights**.
+Unofficial **Home Assistant custom integration** for local control and monitoring of
+**BEAMS reef aquarium lights**.
 
 - Overall brightness and 10 spectral channel controls
 - Auto, manual and service modes
@@ -60,54 +62,16 @@ Unofficial **Home Assistant custom integration** for local control and monitorin
 
 `Home Assistant` `Python` `HACS` `Lovelace`
 
-<br>
-
-[![Repository](https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realdigger/home-assistant-beams)
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<a href="https://github.com/realdigger/home-assistant-beams">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=realdigger&repo=home-assistant-beams&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e"
-    alt="BEAMS Light for Home Assistant"
-  />
-</a>
-
-</td>
-</tr>
-</table>
+**[View repository →](https://github.com/realdigger/home-assistant-beams)**
 
 <br>
-
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
-
-<a href="https://github.com/realdigger/beams-app">
-  <img
-    src="https://raw.githubusercontent.com/realdigger/beams-app/main/docs/screenshots/control-manual.jpg"
-    alt="BEAMS App manual control"
-    width="185"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/realdigger/beams-app">
-  <img
-    src="https://raw.githubusercontent.com/realdigger/beams-app/main/docs/screenshots/daily-cycle.jpg"
-    alt="BEAMS App daily cycle"
-    width="185"
-  />
-</a>
-
-</td>
-<td width="58%" valign="top">
 
 ### BEAMS App
 
 Android app for **local control of BEAMS aquarium lights**.
 
-The app connects directly to compatible lights on the local network, without requiring cloud control.
+The app connects directly to compatible lights on the local network without requiring
+cloud control.
 
 - Local light discovery
 - Direct connection by IP, hostname or URL
@@ -120,13 +84,29 @@ The app connects directly to compatible lights on the local network, without req
 
 `Flutter` `Dart` `Android`
 
+**[View repository →](https://github.com/realdigger/beams-app)**
+
 <br>
 
-[![Repository](https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realdigger/beams-app)
+<div align="center">
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/realdigger/beams-app">
+  <img
+    src="./assets/beams-control-manual.jpg"
+    alt="BEAMS App manual control"
+    width="260"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/realdigger/beams-app">
+  <img
+    src="./assets/beams-daily-cycle.jpg"
+    alt="BEAMS App daily cycle"
+    width="260"
+  />
+</a>
+
+</div>
 
 ---
 
@@ -136,7 +116,7 @@ The app connects directly to compatible lights on the local network, without req
 
 <a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnhbdyjz248530gmupdv3n3ke">
   <img
-    src="https://assets.holopin.io/hf2023levels/level4-blue-0-0-0.webp"
+    src="./assets/hacktoberfest-2023.webp"
     alt="Hacktoberfest 2023 Level 4"
     width="160"
   />
@@ -144,7 +124,7 @@ The app connects directly to compatible lights on the local network, without req
 &nbsp;&nbsp;
 <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm344xfdi66220cl8gsbi5mas">
   <img
-    src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp"
+    src="./assets/hacktoberfest-2024.webp"
     alt="Hacktoberfest 2024 Level 4"
     width="160"
   />
@@ -152,7 +132,7 @@ The app connects directly to compatible lights on the local network, without req
 &nbsp;&nbsp;
 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgip2gis00fhlb04xuyite7s">
   <img
-    src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp"
+    src="./assets/hacktoberfest-2025.webp"
     alt="Hacktoberfest 2025 Supercontributor"
     width="160"
   />
@@ -171,15 +151,9 @@ The app connects directly to compatible lights on the local network, without req
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=realdigger&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e"
-  height="165"
+  src="./profile/stats.svg"
   alt="GitHub stats"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=realdigger&hide_border=true&background=0D1117&stroke=30363D&ring=C9D1D9&fire=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681"
-  height="165"
-  alt="GitHub streak"
+  height="170"
 />
 
 </div>
@@ -191,9 +165,9 @@ The app connects directly to compatible lights on the local network, without req
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdigger&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"
-  height="160"
+  src="./profile/top-langs.svg"
   alt="Top languages"
+  height="170"
 />
 
 </div>
@@ -203,9 +177,5 @@ The app connects directly to compatible lights on the local network, without req
 <div align="center">
 
 <sub>Build useful things · Keep them local · Share them openly</sub>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=realdigger&style=flat-square&color=31363f)
 
 </div>
