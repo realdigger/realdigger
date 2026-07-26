@@ -2,7 +2,7 @@
 
 # realdigger
 
-**Open Source · Home Automation · Mobile Apps · PHP / SMF**
+**Open Source · Home Automation · Mobile Apps · SMF**
 
 </div>
 
@@ -18,12 +18,6 @@ IT specialist and open-source developer. Building tools for **Home Assistant**, 
 
 - **[BEAMS Light for Home Assistant](https://github.com/realdigger/home-assistant-beams)** — local control and monitoring of BEAMS reef aquarium lights. `Python` `Home Assistant` `HACS`
 - **[BEAMS App](https://github.com/realdigger/beams-app)** — Android app for direct local control of BEAMS aquarium lights. `Flutter` `Dart` `Android`
-
-## SMF
-
-- [SMF Who Downloaded Attachment](https://github.com/realdigger/SMF-Who-Downloaded-Attachment)
-- [SMF SAVE Fix](https://github.com/realdigger/SMF-SAVE-Fix)
-- [SMF Allowed Email Domains](https://github.com/realdigger/SMF-Allowed-Email-Domains)
 
 ## Hacktoberfest
 
