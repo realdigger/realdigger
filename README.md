@@ -14,7 +14,7 @@ IT specialist and open-source developer. Building tools for **Home Assistant**, 
 
 `PHP` `Python` `Flutter` `Dart` `Android` `Linux` `Docker` `Git` `MySQL` `JavaScript` `Home Assistant` `SMF`
 
-## Projects
+## Featured projects
 
 - **[BEAMS Light for Home Assistant](https://github.com/realdigger/home-assistant-beams)** — local control and monitoring of BEAMS reef aquarium lights. `Python` `Home Assistant` `HACS`
 - **[BEAMS App](https://github.com/realdigger/beams-app)** — Android app for direct local control of BEAMS aquarium lights. `Flutter` `Dart` `Android`
